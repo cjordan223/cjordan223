@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cjordan223
-- 👀 I’m interested in web development, nature photography, and hiking.
+- 👀 I’m interested in web development, digital security, and design.
 - 🌱 I’m currently learning React.js and diving deeper into full-stack development.
 - 📫 How to reach me connercharlesjordan@gmail.com
 - 😄 Pronouns: He/Him
