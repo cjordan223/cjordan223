@@ -1,6 +1,6 @@
 - Hi, I’m Conner
 -  I’m interested in web development, digital security, and design.
--  I’m currently learning Vue and diving deeper into full-stack development.
+-  I’m currently working in Vue and diving deeper into cloud deploymeny and iOS apps.
 -  connercharlesjordan@gmail.com
 -  connerjordan.com
 
