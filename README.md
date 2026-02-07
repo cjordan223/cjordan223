@@ -51,5 +51,3 @@ Most of my day-to-day work happens in an organizational GitHub environment and d
 - B.S. in Software Engineering
 - Experience in security-conscious, enterprise environments
 - Interested in building systems that are both practical and defensible
-
-This profile highlights public projects and experiments alongside professional work that isn’t publicly visible.
