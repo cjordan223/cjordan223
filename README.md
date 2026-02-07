@@ -43,7 +43,7 @@ Coraline is a long-running full stack security application project built for the
 
 ### About This GitHub Profile
 
-Most of my day-to-day work happens in an organizational GitHub environment and doesn’t contribute to this account’s public activity or heatmap. What’s here is a partial view of my work—focused on things that can be shared publicly.
+Most of my day-to-day work happens in an organizational GitHub environment and doesn’t contribute to this account’s public activity or heatmap. What’s here is a partial view of my work, focused on things that can be shared publicly.
 
 ---
 
