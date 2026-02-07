@@ -1,8 +1,8 @@
-## Hi, I’m Conner
+## Hi, I’m Conner ##
 
-I’m a Security Engineer with a background in software engineering. I spend most of my time working on application security, internal tooling, and systems that have to hold up in real-world, security-conscious environments.
+I’m a Security Engineer with a background in software engineering. I spend most of my time working on application security, internal tooling, and systems that have to hold up in real-world, security-conscious environments. I learn best by building things, especially projects that let me explore how systems work behind the scenes.
 
-I learn best by building things, especially projects that let me explore how systems work behind the scenes.
+
 ---
 
 ### How I think about software
