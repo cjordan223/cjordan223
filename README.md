@@ -37,7 +37,7 @@ Beyond this, I have a large collection of public repositories covering tooling, 
 **Coraline**  
 A long-running solo application project representing 100's of hours of development work.
 
-Coraline is a long-running full stack security application project built for Solidigm that I’ve owned end to end since it's inception mid-2025. The code isn’t visible on this account as it lives in a separate organizational GitHub, but I’m always open to discussing the system architecture, security considerations, and lessons learned from building it.
+
 
 ---
 
