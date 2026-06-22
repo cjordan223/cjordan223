@@ -37,7 +37,7 @@ Beyond this, I have a large collection of public repositories covering tooling, 
 **Coraline**  
 A long-running solo application project representing 100's of hours of development work.
 
-
+Coraline is a long-running full-stack security and automation project I’ve owned end to end since its inception in mid-2025. The code isn’t visible on this account because it lives in a separate organizational GitHub, but I’m always happy to talk through the architecture, security decisions, and lessons learned from building it.
 
 ---
 
