@@ -1,7 +1,10 @@
 ## Hi, I’m Conner ##
 
-I’m a Security Engineer with a background in software engineering. I spend most of my time working on application security, internal tooling, and systems that have to hold up in real-world, security-conscious environments. I learn best by building things, especially projects that let me explore how systems work behind the scenes.
+I'm a software developer working in security. I've built web apps, internal tools, and integrations for security and IT teams. I currently work on AI agent identity security at Solidigm.
 
+I like figuring out how things work and building software for problems I run into. That often means connecting existing systems or replacing something manual with a tool that's easier to use.
+
+Outside work, I spend a lot of time building things in my homelab. Lately that's been local language models, AI agents, and apps for everyday use. I'm interested in how much I can build with these tools, and I learn best by trying it myself.
 
 ---
 
