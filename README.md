@@ -31,7 +31,7 @@ My work sits in that space: helping fast-moving systems stay secure, maintainabl
 An automated security tooling project I’m currently focused on, aimed at improving security analysis and operational workflows. This is an active, evolving project where I experiment with ideas around automation, usability, and security at scale.  
 Repository: https://github.com/cjordan223/Zwicshen
 
-Beyond this, I have a large collection of public repositories covering tooling, experiments, and side projects developed over time, reflecting a range of interests across web development and security.
+I also build internal applications, integrations, and automation at Solidigm. That code lives in private company repositories; this account is where I share my own projects and experiments.
 
 ---
 
